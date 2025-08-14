@@ -7,7 +7,7 @@ public class Book {
         this.title = title; 
         this.author = author; 
         this.isIssued = false; 
-    }
+    } 
 
     public String getTitle() {
         return title;
